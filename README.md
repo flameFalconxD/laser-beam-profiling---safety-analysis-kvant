@@ -67,15 +67,6 @@ A simplified Maximum Permissible Exposure (MPE) model is used to estimate safety
 
 ---
 
-## 📁 Project Structure
-laser-beam-profiling-kvant/
-│
-├── laser_simulation.py
-├── README.md
-└──report.pdf
-
----
-
 ## 🚀 Applications
 - Laser safety analysis  
 - Photonics education  
